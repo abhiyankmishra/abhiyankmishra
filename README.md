@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhiyankmishra
-- 👀 I’m interested in learning new techs
+- 👀 i am fresher right now 
 - 🌱 I’m currently learning many techy things
-- 💞️ I’m looking to internships right now 
+- 💞️ I’m looking for a good start in my career  
 - 📫 How to reach me : abhiyankmishra@gmail.com
 
 <!---
