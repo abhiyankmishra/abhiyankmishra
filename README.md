@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhiyankmishra
-- 👀 i am fresher right now 
-- 🌱 I’m currently learning many techy things
-- 💞️ I’m looking for a good start in my career  
+- 👀 Experienced backend developer
+- 🌱 still experiencing  
 - 📫 How to reach me : abhiyankmishra@gmail.com
 
 <!---
